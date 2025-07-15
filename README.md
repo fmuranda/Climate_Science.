@@ -1,3 +1,2 @@
 # Climate-Science
-Remote Sensing in R
-This repository shows code for SPI and a bit of remote sensing applications in 'R' 
+Computational Tools in Climate Science
